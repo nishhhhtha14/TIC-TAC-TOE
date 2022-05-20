@@ -7,3 +7,6 @@ A basic Tic Tac Toe game built using HTML/JavaScript/CSS
     there is no provision to undo the move. 
     As soon as the move is done, the game proceeds to the next player’s chance.
 2.  If the player wins, the cells get highlighten up.
+
+
+[DEMO](http://127.0.0.1:5500/]
