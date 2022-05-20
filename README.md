@@ -9,4 +9,4 @@ A basic Tic Tac Toe game built using HTML/JavaScript/CSS
 2.  If the player wins, the cells get highlighten up.
 
 
-[DEMO](http://127.0.0.1:5500/]
+[DEMO](127.0.0.1:5500]
